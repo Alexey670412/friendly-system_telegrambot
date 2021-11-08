@@ -1,0 +1,11 @@
+#IDE and editor settings
+.vcode/
+
+#Build output
+*.by
+
+#Sensetive information
+token.txt
+
+#Library
+venv
